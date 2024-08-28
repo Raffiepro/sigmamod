@@ -15,7 +15,7 @@ import net.minecraft.util.Identifier;
 
 public class ModBlocks {
     public static final Block COCAINE_BLOCK = registerBlock("cocaine_block",
-            new Block(AbstractBlock.Settings.create().mapColor(MapColor.WHITE).strength(3f).requiresTool().sounds(BlockSoundGroup.ROOTED_DIRT).burnable()));
+            new Block(AbstractBlock.Settings.create().mapColor(MapColor.WHITE).strength(2f).requiresTool().sounds(BlockSoundGroup.ROOTED_DIRT)));
 
     private static Block registerBlock(String name, Block block) {
         registerBlockItem(name, block);
