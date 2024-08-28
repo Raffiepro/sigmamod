@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+
+  "key": {
+    "#": {
+      "item": "sigmamod:crushed_cocaine"
+    }
+  },
+
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+
+  "result": {
+    "count": 1,
+    "id": "sigmamod:cocaine_block"
+  }
+}

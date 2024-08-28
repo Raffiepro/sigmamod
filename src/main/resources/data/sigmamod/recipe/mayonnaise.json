@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 125,
+  "experience": 0.4,
+  "group": "mayonnaise",
+  "ingredient": {
+    "item": "sigmamod:crushed_cocaine"
+  },
+  "result": {
+    "id": "sigmamod:mayonnaise"
+  }
+}
