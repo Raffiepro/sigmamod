@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 50,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "minecraft:block_match",
+          "block": "minecraft:stone"
+        },
+        "state": {
+          "Name": "sigmamod:cocaine_block"
+        }
+      }
+    ],
+    "discard_chance_on_air_exposure": 0.1
+  }
+}
